@@ -1,0 +1,29 @@
+@charset "UTF-8";
+div.header {
+    background: #ff0000;
+    padding: 10px;
+    text-align: text-left;
+    border: 1px solid #cccccc;
+}
+div.footer {
+    background: #ff0000;
+    padding: 10px;
+    text-align: text-left;
+    border: 1px solid #cccccc;
+}
+body{
+    background: #ffffff;
+    padding: 10px;
+    text-align: text-left;
+}
+table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+table th,table td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dddddd;
+}
